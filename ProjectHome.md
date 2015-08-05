@@ -1,0 +1,1 @@
+A sample Hello World project for Google Glass XE12.
